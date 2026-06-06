@@ -1,12 +1,21 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16a34a&height=200&section=header&text=VendorBridge&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Procurement%20%26%20Vendor%20Management%20ERP&descAlignY=58&descSize=22&descColor=d1fae5" width="100%" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="80" height="80" />
+  
+  <br>
 
-<!-- Typing Animation -->
-<a href="https://github.com/PDA-DP-Shop/vendorbridge">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=16A34A&center=true&vCenter=true&width=700&lines=Simplify+Your+Procurement+Workflow+%F0%9F%9A%80;Manage+Vendors+%7C+RFQs+%7C+Quotations;Real-Time+Approval+Workflows+%E2%9C%85;Auto-Generate+POs+%26+Invoices+%F0%9F%93%84;Built+by+Team+Codinity+%F0%9F%94%A5" alt="Typing Animation" />
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=16A34A&center=true&vCenter=true&width=600&height=80&lines=Welcome+to+VendorBridge;Next-Gen+Procurement;Seamless+Vendor" alt="Typing SVG" />
+
+  <h1>VendorBridge</h1>
+
+  <div style="background: linear-gradient(90deg, #714B67 0%, #017E84 100%); padding: 20px; border-radius: 15px; margin-bottom: 20px; color: white;">
+    <h1 style="margin: 0; font-size: 32px; font-weight: 800; text-transform: uppercase; letter-spacing: 2px;">
+      🏆 Odoo x KSV Hackathons 2026 🏆
+    </h1>
+    <h3 style="margin: 10px 0 0 0; font-weight: 600; letter-spacing: 5px;">
+      VIRTUAL ROUND SUBMISSION
+    </h3>
+  </div>
 
 <br/>
 <br/>
