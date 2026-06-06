@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="80" height="80" />
+<img src="client/public/logo.png" alt="Briefcase" width="80" height="80" />
   
   <br>
 
