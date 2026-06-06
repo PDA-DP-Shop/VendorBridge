@@ -958,7 +958,7 @@ socket.on("dashboard_update", () => { /* refetch dashboard stats */ });
       <a href="https://github.com/Viraj-mvp">
         <img src="https://avatars.githubusercontent.com/Viraj-mvp?v=4" width="100px;" style="border-radius:50%" alt="Viraj"/><br/>
         <b>Viraj</b><br/>
-        <sub>Frontend + UI/UX</sub><br/>
+        <sub>Backend + security</sub><br/>
         <img src="https://img.shields.io/badge/@Viraj--mvp-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
